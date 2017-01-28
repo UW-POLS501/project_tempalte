@@ -4,10 +4,9 @@ This contains replication materials for the POLS 501 project of *Your Name*
 
 # Getting Started with the template
 
-With the
-
-1. rename `project_template.Rproj` to the same name as the directory you are using for your project. Your directoy name should also be an informative name related to your project.
-2. Edit `README.md` to remove the "Getting started with the template" section.
+1. Download and unzip the latest version from [releases](https://github.com/UW-POLS501/project_template/releases) page.
+2. rename `project_template.Rproj` to the same name as the directory you are using for your project. Your directoy name should also be an informative name related to your project.
+3. Edit `README.md` to remove the "Getting started with the template" section.
 
 # Install
 
