@@ -18,7 +18,7 @@ nscripts <- length(scripts)
 for (i in seq_along(scripts)) {
   scriptname <- scripts[[i]]
   cat("Running ", scriptname, "(", i, " of ", nscripts, ")")
-  source(fn)
+  source(scriptname)
 }
 
 cat("Finished!")
